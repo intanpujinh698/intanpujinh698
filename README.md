@@ -1,6 +1,6 @@
 # Hi, I'm Intan 👋
 <div align="center">
-  <img src="https://raw.githubusercontent.com/intanpujinh698/mola-molaku/main/mola-molaku2.gif" width="250" />
+  <img src="https://raw.githubusercontent.com/intanpujinh698/mola-molaku/main/mola2ku1.gif" width="250" />
   <p><i>Hellow everyone!</i></p>
 </div>
 
