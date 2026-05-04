@@ -1,7 +1,8 @@
 <p align="center">
   <img src="https://github.com/intanpujinh698/mola-molaku/blob/main/bannergithub.png?raw=true" width="100%" />
 </p>
-# Hi, I'm Intan 👋
+---
+## Hi, I'm Intan 👋
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/intanpujinh698/mola-molaku/main/mola2ku1.gif" width="250" />
