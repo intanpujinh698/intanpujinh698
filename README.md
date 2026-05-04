@@ -1,15 +1,6 @@
 <p align="center">
   <img src="https://github.com/intanpujinh698/mola-molaku/blob/main/bannerku.gif?raw=true" width="100%" />
 </p>
-# Hi, I'm Intan 👋
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/intanpujinh698/mola-molaku/main/mola2ku1.gif" width="250" />
-  <p><i>Thanks for visiting!</i></p>
-</div>
-
-### 💻 Founder of Intan Labs  
-*Building cute but useful digital solutions for real-world problems.*
 
 ---
 
@@ -26,9 +17,72 @@
 - [x] Learning software engineering deeply  
 - [x] Exploring game development  
 - [x] Turning ideas into real products  
+<!-- INTRO ICON ROW -->
+<tr>
+<td width="50%">
+
+### 🌸 Current Focus
+- ✅ Building practical mini projects
+- ✅ Learning software engineering deeply
+- ✅ Exploring AI & automation
+- ✅ Creating tools for real problems
+- ✅ Growing Intan Labs
+
+</td>
+
+<td width="50%">
+
+### 💻 My Tech Stack
+<p>
+<img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode,mysql" />
+</p>
+
+</td>
+</tr>
+</table>
+
 ---
-## 📊 GitHub Stats <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=intanpujinh698&show_icons=true&theme=default&title_color=E8B4B8&icon_color=D98C9A&text_color=6D4C57&bg_color=FFF8F8&border_color=FFE4E1" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=intanpujinh698&theme=default&ring=E8B4B8&fire=D98C9A&currStreakLabel=6D4C57&background=FFF8F8&border=FFE4E1" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=intanpujinh698&layout=compact&title_color=E8B4B8&text_color=6D4C57&bg_color=FFF8F8&border_color=FFE4E1" /> </p>
+
+<!-- QUOTE BAR -->
+<p align="center">
+✨ <b>I believe technology should feel warm, simple, and human.</b>
+</p>
+
 ---
+
+<!-- STATS SECTION -->
+<table>
+<tr>
+<td>
+
+### 📊 GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=tokyonight" />
+
+</td>
+
+<td>
+
+### 🔥 GitHub Streak
+<img src="https://streak-stats.demolab.com?user=USERNAME_KAMU&theme=tokyonight" />
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🌊 Current Projects
+- 🧾 UMKM Cashier System
+- 👕 Laundry Management App
+- 🎮 Cabut Duri Healing Game
+- 🤖 AI Experiment Lab
+- 🌐 Intan Labs Portfolio
+
+---
+
+### 🐟 Daily Motivation
+> Small progress everyday leads to meaningful impact.
+
 ### 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![VB.NET](https://img.shields.io/badge/VB.NET-512BD4?style=for-the-badge&logo=visual-basic&logoColor=white)
@@ -40,3 +94,8 @@
 ### Connect with me
 [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/intanpujinh698)
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/intanpujinh)
+---
+<div align="center">
+  <img src="https://raw.githubusercontent.com/intanpujinh698/mola-molaku/main/mola2ku1.gif" width="250" />
+  <p><i>Thanks for visiting!</i></p>
+</div>
