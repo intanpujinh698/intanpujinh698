@@ -49,29 +49,30 @@
 </p>
 
 ---
-
-<!-- STATS SECTION -->
-<table>
-<tr>
-<td>
-
 <table>
 <tr>
 
-<td width="33%">
-<img src="https://github-readme-stats.vercel.app/api?username=intanpujinh698&show_icons=true&theme=rose_pine&hide_border=true"/>
+<td width="50%">
+  
+---
+
+### 📊 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=intanpujinh698&show_icons=true&theme=default&hide_border=true&bg_color=FFF8FC&title_color=9B6B9E&text_color=7A4E56&icon_color=F4A6C1"/>
+
 </td>
 
-<td width="33%">
-<img src="https://streak-stats.demolab.com?user=intanpujinh698&theme=rose_pine&hide_border=true"/>
-</td>
+<td width="50%">
 
-<td width="33%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=intanpujinh698&layout=compact&theme=rose_pine&hide_border=true"/>
+### 🔥 GitHub Streak
+
+<img src="https://streak-stats.demolab.com?user=intanpujinh698&hide_border=true&background=FFF8FC&ring=F4A6C1&fire=FFB6C1&currStreakLabel=9B6B9E&sideLabels=7A4E56&dates=8B6F7B"/>
+
 </td>
 
 </tr>
 </table>
+
 ---
 
 ### 🌊 Current Projects
