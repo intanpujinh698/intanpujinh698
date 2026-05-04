@@ -66,16 +66,22 @@
   
 ---
 
+<table>
+<tr>
+
+<td width="50%">
+
 ### 📊 GitHub Stats
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=intanpujinh698&show_icons=true&theme=rose_pine&hide_border=true" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=intanpujinh698&show_icons=true&theme=rose_pine&hide_border=true"/>
+
 </td>
 
 <td width="50%">
 
 ### 🔥 GitHub Streak
 
-<img src="https://streak-stats.demolab.com?user=intanpujinh698&hide_border=true&background=FFF8FC&ring=F4A6C1&fire=FFB6C1&currStreakLabel=9B6B9E&sideLabels=7A4E56&dates=8B6F7B"/>
+<img src="https://streak-stats.demolab.com?user=intanpujinh698&theme=rose_pine&hide_border=true"/>
 
 </td>
 
