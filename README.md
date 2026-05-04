@@ -30,6 +30,16 @@
 
 </td>
 
+---
+
+### 🌊 Current Projects
+- 🧾 UMKM Cashier System
+- 👕 Laundry Management App
+- 🎮 Cabut Duri Healing Game
+- 🤖 AI Experiment Lab
+- 🌐 Intan Labs Portfolio
+  
+---
 <td width="50%">
 
 ### 💻 My Tech Stack
@@ -58,8 +68,7 @@
 
 ### 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=intanpujinh698&show_icons=true&theme=default&hide_border=true&bg_color=FFF8FC&title_color=9B6B9E&text_color=7A4E56&icon_color=F4A6C1"/>
-
+<img src="https://github-readme-stats.vercel.app/api?username=intanpujinh698&show_icons=true" />
 </td>
 
 <td width="50%">
@@ -72,15 +81,6 @@
 
 </tr>
 </table>
-
----
-
-### 🌊 Current Projects
-- 🧾 UMKM Cashier System
-- 👕 Laundry Management App
-- 🎮 Cabut Duri Healing Game
-- 🤖 AI Experiment Lab
-- 🌐 Intan Labs Portfolio
 
 ---
 
