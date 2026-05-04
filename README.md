@@ -53,23 +53,19 @@
 
 <td width="50%">
 
-### 📊 GitHub Stats
+<table>
+<tr>
 
+<td width="50%">
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=intanpujinh698&show_icons=true&hide_border=true&bg_color=FFF9FC&title_color=7A4E56&text_color=8B6F7B&icon_color=F4A6C1" />
-
 </td>
 
 <td width="50%">
-
-### 🔥 GitHub Streak
-
 <img src="https://streak-stats.demolab.com?user=intanpujinh698&hide_border=true&background=FFF9FC&ring=A8D8EA&fire=F4A6C1&currStreakLabel=7A4E56&sideLabels=8B6F7B&dates=B8A6B3" />
-
 </td>
 
 </tr>
 </table>
-
 ---
 ### 🐟 Daily Motivation
 > Small progress everyday leads to meaningful impact.
