@@ -56,19 +56,18 @@
 <td>
 
 ### 📊 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=intanpujinh698&show_icons=true&theme=rose_pine" />
 
 </td>
 
 <td>
 
 ### 🔥 GitHub Streak
-<img src="https://streak-stats.demolab.com?user=USERNAME_KAMU&theme=tokyonight" />
+<img src="https://streak-stats.demolab.com?user=intanpujinh698&theme=rose_pine" />
 
 </td>
 </tr>
 </table>
-
 ---
 
 ### 🌊 Current Projects
@@ -82,15 +81,7 @@
 
 ### 🐟 Daily Motivation
 > Small progress everyday leads to meaningful impact.
-
-### 🛠️ Tech Stack
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![VB.NET](https://img.shields.io/badge/VB.NET-512BD4?style=for-the-badge&logo=visual-basic&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
 ---
-
 ### Connect with me
 [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/intanpujinh698)
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/intanpujinh)
