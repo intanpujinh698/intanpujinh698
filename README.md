@@ -4,12 +4,9 @@
 
 ---
   
-🌸 Mother of two  
-🧠 Computer Science student @ UNSIA  
-🎮 Aspiring Game Developer  
-🤖 AI & Software enthusiast  
-🚀 Rebuilding my tech journey one project at a time
-
+<p align="center">
+🌸 Mother of two • 🧠 CS Student • 🎮 Game Dev • 🤖 AI Enthusiast • 🚀 Builder
+</p>
 ---
 
 ## 🐟 Current Quest
