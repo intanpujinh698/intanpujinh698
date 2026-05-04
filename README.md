@@ -66,7 +66,7 @@
 
 </tr>
 </table>
----
+
 ### 🐟 Daily Motivation
 > Small progress everyday leads to meaningful impact.
 
