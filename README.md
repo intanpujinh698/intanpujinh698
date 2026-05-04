@@ -55,17 +55,21 @@
 <tr>
 <td>
 
-### 📊 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=intanpujinh698&show_icons=true&theme=rose_pine" />
+<table>
+<tr>
 
+<td width="33%">
+<img src="https://github-readme-stats.vercel.app/api?username=intanpujinh698&show_icons=true&theme=rose_pine&hide_border=true"/>
 </td>
 
-<td>
-
-### 🔥 GitHub Streak
-<img src="https://streak-stats.demolab.com?user=intanpujinh698&theme=rose_pine" />
-
+<td width="33%">
+<img src="https://streak-stats.demolab.com?user=intanpujinh698&theme=rose_pine&hide_border=true"/>
 </td>
+
+<td width="33%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=intanpujinh698&layout=compact&theme=rose_pine&hide_border=true"/>
+</td>
+
 </tr>
 </table>
 ---
