@@ -1,8 +1,10 @@
-```md
 <p align="center">
   <img src="https://github.com/intanpujinh698/mola-molaku/blob/main/bannergithub.png?raw=true" width="100%" alt="Intan Labs Banner" />
 </p>
-```
+
+<p align="center">
+  <img src="https://github.com/intanpujinh698/mola-molaku/blob/main/bannergithub.png?raw=true" width="100%" />
+</p>
 # Hi, I'm Intan 👋
 
 <div align="center">
