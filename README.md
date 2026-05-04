@@ -24,6 +24,11 @@
 - [x] Exploring game development  
 - [x] Turning ideas into real products  
 
+### 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=intanpujinh698&show_icons=true&hide_border=true&bg_color=FFE4E1&title_color=6B4242&text_color=6B4242&icon_color=E89B9B" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=intanpujinh698&layout=compact&hide_border=true&bg_color=FFE4E1&title_color=6B4242&text_color=6B4242" />
+</div>
 ---
 
 ### 🛠️ Tech Stack
