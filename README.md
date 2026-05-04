@@ -23,13 +23,12 @@
 - [x] Learning software engineering deeply  
 - [x] Exploring game development  
 - [x] Turning ideas into real products  
-
+---
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=intanpujinh698&show_icons=true&hide_border=true&bg_color=FFE4E1&title_color=6B4242&text_color=6B4242&icon_color=E89B9B" alt="Intan's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=intanpujinh698&layout=compact&hide_border=true&bg_color=FFE4E1&title_color=6B4242&text_color=6B4242" alt="Intan's top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=intanpujinh698&show_icons=true&hide_border=true&bg_color=FFE4E1&title_color=6B4242&text_color=6B4242&icon_color=E89B9B" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=intanpujinh698&layout=compact&hide_border=true&bg_color=FFE4E1&title_color=6B4242&text_color=6B4242" />
 </div>
----
 
 ### 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
