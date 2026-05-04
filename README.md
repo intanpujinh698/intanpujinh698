@@ -3,15 +3,24 @@
 </p>
 
 ---
-
+<table>
+<tr>
+<td align="center" bgcolor="#FFF8FC">
+  
 🌸 Mother of two  
 🧠 Computer Science student @ UNSIA  
 🎮 Aspiring Game Developer  
 🤖 AI & Software enthusiast  
 🚀 Rebuilding my tech journey one project at a time
 
----
+</td>
+</tr>
+</table>
 
+---
+<table>
+<tr>
+<td align="center" bgcolor="#FDF7FF">
 ## 🐟 Current Quest
 - [x] Building practical mini SaaS  
 - [x] Learning software engineering deeply  
@@ -20,7 +29,13 @@
 <!-- INTRO ICON ROW -->
 <tr>
 <td width="50%">
+  
+<table>
+<tr>
 
+<table>
+<tr>
+<td width="50%" bgcolor="#FFF8FC">
 ### 🌸 Current Focus
 - ✅ Building practical mini projects
 - ✅ Learning software engineering deeply
@@ -29,19 +44,29 @@
 - ✅ Growing Intan Labs
 
 </td>
-
+</tr>
+</table>
 ---
-
+<table>
+<tr>
+<td bgcolor="#F8FCFF"
+  
 ### 🌊 Current Projects
 - 🧾 UMKM Cashier System
 - 👕 Laundry Management App
 - 🎮 Cabut Duri Healing Game
 - 🤖 AI Experiment Lab
 - 🌐 Intan Labs Portfolio
-  
+- 
+  </td>
+</tr>
+</table>
 ---
 <td width="50%">
 
+<table>
+  <tr>
+<td width="50%" bgcolor="#F8F4FF">
 ### 💻 My Tech Stack
 <p>
 <img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode,mysql" />
@@ -89,9 +114,14 @@
 </table>
 
 ---
-
+<table>
+<tr>
+<td align="center" bgcolor="#FFF6FA">
 ### 🐟 Daily Motivation
 > Small progress everyday leads to meaningful impact.
+</td>
+</tr>
+</table>
 ---
 ### Connect with me
 [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/intanpujinh698)
