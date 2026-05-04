@@ -1,7 +1,7 @@
 # Hi, I'm Intan 👋
 
 <div align="center">
-  <img src="[https://raw.githubusercontent.com/intanpujinh698/mola-molaku/main/mola2ku1.gif](https://raw.githubusercontent.com/intanpujinh698/mola-molaku/main/mola2ku1.gif)" width="250" />
+  <img src="https://raw.githubusercontent.com/intanpujinh698/mola-molaku/main/mola2ku1.gif" width="250" />
   <p><i>Thanks for visiting!</i></p>
 </div>
 
