@@ -68,7 +68,7 @@
 
 ### 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=intanpujinh698&show_icons=true" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=intanpujinh698&show_icons=true&theme=rose_pine&hide_border=true" />
 </td>
 
 <td width="50%">
