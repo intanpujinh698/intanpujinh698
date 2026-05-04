@@ -24,12 +24,8 @@
 - [x] Exploring game development  
 - [x] Turning ideas into real products  
 ---
-### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=intanpujinh698&show_icons=true&hide_border=true&bg_color=FFE4E1&title_color=6B4242&text_color=6B4242&icon_color=E89B9B" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=intanpujinh698&layout=compact&hide_border=true&bg_color=FFE4E1&title_color=6B4242&text_color=6B4242" />
-</div>
-
+## 📊 GitHub Stats <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=intanpujinh698&show_icons=true&theme=default&title_color=E8B4B8&icon_color=D98C9A&text_color=6D4C57&bg_color=FFF8F8&border_color=FFE4E1" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=intanpujinh698&theme=default&ring=E8B4B8&fire=D98C9A&currStreakLabel=6D4C57&background=FFF8F8&border=FFE4E1" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=intanpujinh698&layout=compact&title_color=E8B4B8&text_color=6D4C57&bg_color=FFF8F8&border_color=FFE4E1" /> </p>
+---
 ### 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![VB.NET](https://img.shields.io/badge/VB.NET-512BD4?style=for-the-badge&logo=visual-basic&logoColor=white)
